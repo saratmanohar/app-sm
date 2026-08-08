@@ -1,0 +1,46 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.app.sm</groupId>
+  <artifactId>app-sm</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+      <!-- Example Maven dependencies for Cucumber with Selenium 4 -->
+    <dependency>
+        <groupId>org.seleniumhq.selenium</groupId>
+        <artifactId>selenium-java</artifactId>
+        <version>4.22.0</version> <!-- Replaced 4.x.x with a specific, recent version -->
+    </dependency>
+    <dependency>
+        <groupId>io.cucumber</groupId>
+        <artifactId>cucumber-java</artifactId>
+        <version>7.18.0</version> <!-- Replaced 7.x.x with a specific, recent version -->
+    </dependency>
+    <dependency>
+        <groupId>io.cucumber</groupId>
+        <artifactId>cucumber-junit</artifactId>
+        <version>7.18.0</version>
+        <scope>test</scope>
+    </dependency>
+    <dependency>
+        <groupId>junit</groupId>
+        <artifactId>junit</artifactId>
+        <version>4.13.2</version>
+        <scope>test</scope>
+    </dependency>
+    <dependency>
+	    <groupId>net.jthink</groupId>
+	    <artifactId>jaudiotagger</artifactId>
+	    <version>3.0.1</version>
+	</dependency>
+
+    <!-- Optional: Add cucumber-picocontainer for dependency injection if needed -->
+    <!--
+    <dependency>
+        <groupId>io.cucumber</groupId>
+        <artifactId>cucumber-picocontainer</artifactId>
+        <version>7.18.0</version>
+        <scope>test</scope>
+    </dependency>
+    -->
+  </dependencies>
+</project>

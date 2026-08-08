@@ -1,0 +1,274 @@
+DOWNLOAD PATH: C:\Users\Sarath\eclipse-selenium4\app-sm\Downloads\MultipleLists
+Jul 13, 2026 12:15:26 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 149
+Jul 13, 2026 12:15:26 AM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+WARNING: Unable to find version of CDP to use for 149.0.7827.103. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.22.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+Illuminati (Aavesham): false
+Jaada (Aavesham): false
+Title: Aavesham - Galatta Song #galatta #aavesham #fahadhfaasil #sushinshyam
+Renamed: Aavesham - Galatta Song #galatta #aavesham #fahadhfaasil #sushinshyam [oVgrZkkiBUY].mp3 -> 01_Aavesham - Galatta Song #galatta #aavesham #fahadhfaasil #sushinshyam [oVgrZkkiBUY].mp3
+Renaming process complete.
+Galatta (Aavesham): true
+Kannil Pettole (Thallumaala): false
+Ole Melody (Thallumaala): false
+Ndiyum Ndiyum (Thallumaala): false
+Parudeesa (Bheeshma Parvam): false
+Raathiri (Bheeshma Parvam): false
+Aadharanjali (Romancham): false
+Kuthanthram (Manjummel Boys): false
+Title: Nebulakal - Travel Song (From "Manjummel Boys")
+Renamed: Nebulakal - Travel Song (From _Manjummel Boys_) [MQs-6Oeobnw].mp3 -> 02_Nebulakal - Travel Song (From _Manjummel Boys_) [MQs-6Oeobnw].mp3
+Renaming process complete.
+Nebulakal (Manjummel Boys): true
+Darshana (Hridayam): false
+Onakka Munthiri (Hridayam): false
+Kudukku (Love Action Drama): false
+Pistah (Neram): false
+Vathil Melle (Neram): false
+Title: Scene Contra | Premam
+Renamed: Scene Contra _ Premam [WYtnfsDJ6IA].mp3 -> 03_Scene Contra _ Premam [WYtnfsDJ6IA].mp3
+Renaming process complete.
+Scene Contra (Premam): false
+Title: Kalippu | Premam
+Renamed: Kalippu _ Premam [PeUjir1kMFM].mp3 -> 04_Kalippu _ Premam [PeUjir1kMFM].mp3
+Renaming process complete.
+Kalippu (Premam): false
+Jimikki Kammal (Velipadinte Pusthakam): false
+Aaro Nenjil (Godha): false
+Title: Neeraj Madhav - PANIPAALI
+Renamed: Neeraj Madhav - PANIPAALI [Z3Nli5iIsSA].mp3 -> 05_Neeraj Madhav - PANIPAALI [Z3Nli5iIsSA].mp3
+Renaming process complete.
+Panipaali (Neeraj Madhav): true
+Panipaali-2 (Neeraj Madhav): false
+Kotha Raja (King of Kotha): false
+Title: King of Kotha - Kalapakkaara Video | FOI Studios 2024
+Renamed: King of Kotha - Kalapakkaara Video _ FOI Studios 2024 [7ORLdT89kPM].mp3 -> 06_King of Kotha - Kalapakkaara Video _ FOI Studios 2024 [7ORLdT89kPM].mp3
+Renaming process complete.
+Kalapakkaara (King of Kotha): true
+Kochu Kunjintachanoru (Vaazha 2): false
+Koodappirannor (Vaazha 2): false
+Thooki (Vaazha 2): false
+Roshomon (Solo): false
+Title: Oru Adaar Love | Roshan + Priya | Freak Penne
+Renamed: Oru Adaar Love _ Roshan + Priya _ Freak Penne [vd6BIe2U2pw].mp3 -> 07_Oru Adaar Love _ Roshan + Priya _ Freak Penne [vd6BIe2U2pw].mp3
+Renaming process complete.
+Freak Penne (Oru Adaar Love): true
+Title: Oru Adaar Love | Manikya Malaraya Poovi Song Video| Omar Lulu, Vineeth Sreenivasan, Shaan Rahman |HD
+Renamed: Oru Adaar Love _ Manikya Malaraya Poovi Song Video_ Omar Lulu, Vineeth Sreenivasan, Shaan Rahman _HD [W0fKl43QmIE].mp3 -> 08_Oru Adaar Love _ Manikya Malaraya Poovi Song Video_ Omar Lulu, Vineeth Sreenivasan, Shaan Rahman _HD [W0fKl43QmIE].mp3
+Renaming process complete.
+Manikya Malaraya Poovi (Oru Adaar Love): true
+Paala Palli (Kaduva): false
+Ollulleru (Ajagajantharam): false
+Ithu Kadu (Churuli): false
+Halaballoo (RDX): false
+Neela Nilave (RDX): false
+Red Lilies (Kalki): false
+Raftaara (Lucifer): false
+Dingiri Dingale (Kurup): false
+Raakk (Malaikottai Vaaliban): false
+Thee Minnal (Minnal Murali): false
+Thaniye (Guppy): false
+Theeyame (Angamaly Diaries): false
+Puzhu Pulikal (Kammattipadam): false
+Manavalan Thug (Dabzee): false
+Kanjavu (Baby Jean): false
+Malare (Premam): false
+Kiliye (Premam): false
+Title: Aluva Puzha
+Renamed: Aluva Puzha [dHpvF5Vn7Dg].mp3 -> 09_Aluva Puzha [dHpvF5Vn7Dg].mp3
+Renaming process complete.
+Aluva Puzha (Premam): true
+Doore Doore (Neelakasham Pachakadal...): false
+Illalu Ponnillalu (Neelakasham Pachakadal...): false
+Keralam (Jacobinte Swargarajyam): false
+Title: Ee Shishirakaalam | Jacobinte Swargarajyam | Nivin Pauly, Vineeth Sreenivasan, Shaan Rahman |
+Renamed: Ee Shishirakaalam _ Jacobinte Swargarajyam _ Nivin Pauly, Vineeth Sreenivasan, Shaan Rahman _ [JEeEApK-XqE].mp3 -> 10_Ee Shishirakaalam _ Jacobinte Swargarajyam _ Nivin Pauly, Vineeth Sreenivasan, Shaan Rahman _ [JEeEApK-XqE].mp3
+Renaming process complete.
+Ee Shishirakaalam (Jacobinte Swargarajyam): true
+Thiruvavani Ravu (Jacobinte Swargarajyam): false
+Title: Bangalore Days || VS || Mangalyam Song
+Renamed: Bangalore Days __ VS __ Mangalyam Song [TPEcvdwck_o].mp3 -> 11_Bangalore Days __ VS __ Mangalyam Song [TPEcvdwck_o].mp3
+Renaming process complete.
+Thudakkam Mangalyam (Bangalore Days): true
+Title: Nam Ooru Bengaluru | Bangalore Days| Video Song | NivinPauly | Dulquar Salman | Nazriya | FahadFazil
+Renamed: Nam Ooru Bengaluru _ Bangalore Days_ Video Song _ NivinPauly _ Dulquar Salman _ Nazriya _ FahadFazil [9GUtsBv9KYE].mp3 -> 12_Nam Ooru Bengaluru _ Bangalore Days_ Video Song _ NivinPauly _ Dulquar Salman _ Nazriya _ FahadFazil [9GUtsBv9KYE].mp3
+Renaming process complete.
+Nam Ooru Bengaluru (Bangalore Days): true
+Title: Bangalore Days Wedding Song - Mangalyam - Choreography
+Renamed: Bangalore Days Wedding Song - Mangalyam - Choreography [nx97QM5Kdrw].mp3 -> 13_Bangalore Days Wedding Song - Mangalyam - Choreography [nx97QM5Kdrw].mp3
+Renaming process complete.
+Maangalyam (Bangalore Days): true
+Payyaram (Ohm Shanthi Oshaana): false
+Title: Kattu Mooliyo Official Full Song - Ohm Shanthi Oshaana
+Renamed: Kattu Mooliyo Official Full Song - Ohm Shanthi Oshaana [O5IlYZCQRuU].mp3 -> 14_Kattu Mooliyo Official Full Song - Ohm Shanthi Oshaana [O5IlYZCQRuU].mp3
+Renaming process complete.
+Kattu Mooliyo (Ohm Shanthi Oshaana): true
+Title: Anuraghathin Velayil | Video Song | Thattathin Marayathu | Nivin Pauly | Isha Talwar
+Renamed: Anuraghathin Velayil _ Video Song _ Thattathin Marayathu _ Nivin Pauly _ Isha Talwar [X48wPny1hTw].mp3 -> 15_Anuraghathin Velayil _ Video Song _ Thattathin Marayathu _ Nivin Pauly _ Isha Talwar [X48wPny1hTw].mp3
+Renaming process complete.
+Anuragathin Velayil (Thattathin Marayathu): true
+Namosthuthe (Thattathin Marayathu): false
+Muthuchippi (Thattathin Marayathu): false
+Title: Neeyilla Neram | Luca | Lyrical Video | Tovino Thomas
+Renamed: Neeyilla Neram _ Luca _ Lyrical Video _ Tovino Thomas [pBIhUCsnhL4].mp3 -> 16_Neeyilla Neram _ Luca _ Lyrical Video _ Tovino Thomas [pBIhUCsnhL4].mp3
+Renaming process complete.
+Neeyilla Neram (Luca): true
+Ore Kannal (Luca): false
+Title: LAILAKAME - EZRA | Lyrics Video | Pilimbee
+Renamed: LAILAKAME - EZRA _ Lyrics Video _ Pilimbee [cDpQrb2QG6Q].mp3 -> 17_LAILAKAME - EZRA _ Lyrics Video _ Pilimbee [cDpQrb2QG6Q].mp3
+Renaming process complete.
+Lailakame (Ezra): true
+Uyire (Minnal Murali): false
+Enne Thallendammava (Oru Vadakkan Selfie): false
+Title: Neelambalin | Oru Vadakkan Selfie | STATUS VIDEO 😍
+Renamed: Neelambalin _ Oru Vadakkan Selfie _ STATUS VIDEO 😍 [VgOltT-MwLQ].mp3 -> 18_Neelambalin _ Oru Vadakkan Selfie _ STATUS VIDEO 😍 [VgOltT-MwLQ].mp3
+Renaming process complete.
+Kanne Kanne (Oru Vadakkan Selfie): true
+Puthiyoru Pathayil (Varathan): false
+Oduvile Theeyayi (Varathan): false
+Njan Jackson Allada (Ambili): false
+Aaraadika (Ambili): false
+Sundari Penne (Charlie): false
+Oru Kari Mukilinu (Charlie): false
+Pularikalo (Charlie): false
+Appangalembadum (Ustad Hotel): false
+Mel Mel Mel (Ustad Hotel): false
+Thaane Pookum (Sapthamashree Thaskaraha): false
+Pavizha Mazha (Athiran): false
+Title: ETHO MAZHAYIL | VIJAY SUPERUM POURNAMIYUM | VIJAY YESUDAS | SWETHA MOHAN
+Renamed: ETHO MAZHAYIL _ VIJAY SUPERUM POURNAMIYUM _ VIJAY YESUDAS _ SWETHA MOHAN [WEEessbCUnc].mp3 -> 19_ETHO MAZHAYIL _ VIJAY SUPERUM POURNAMIYUM _ VIJAY YESUDAS _ SWETHA MOHAN [WEEessbCUnc].mp3
+Renaming process complete.
+Etho Mazhayil (Vijay Superum Pournamiyum): true
+Title: Vijay Superum Pournamiyum Video Song | Pournami Superalleda | Asif Ali | Vineeth Sreenivasan | Balu
+Renamed: Vijay Superum Pournamiyum Video Song _ Pournami Superalleda _ Asif Ali _ Vineeth Sreenivasan _ Balu [Yt2p2YYhJvc].mp3 -> 20_Vijay Superum Pournamiyum Video Song _ Pournami Superalleda _ Asif Ali _ Vineeth Sreenivasan _ Balu [Yt2p2YYhJvc].mp3
+Renaming process complete.
+Pournami Superalle (Vijay Superum Pournamiyum): true
+Title: Thinkal Poovin – Anne Amie | Pachuvum Athbutha Vilakkum | Justin Prabhakaran | Akhil Sathyan
+Renamed: Thinkal Poovin – Anne Amie _ Pachuvum Athbutha Vilakkum _ Justin Prabhakaran _ Akhil Sathyan [LNzumtGcEKI].mp3 -> 21_Thinkal Poovin – Anne Amie _ Pachuvum Athbutha Vilakkum _ Justin Prabhakaran _ Akhil Sathyan [LNzumtGcEKI].mp3
+Renaming process complete.
+Thinkal Poovin (Pachuvum Athbutha Vilakkum): true
+Uyiril Thodum (Kumbalangi Nights): false
+Tharangal (North 24 Kaatham): false
+Poru Mazhavilline (North 24 Kaatham): false
+Kadalalle (Dear Comrade): false
+Kannil Kannil (Sita Ramam): false
+Bheeminte Vazhi (Bheeminte Vazhi): false
+Title: Kili Poyi - Title Song
+Renamed: Kili Poyi - Title Song [VSjDOAHPhs0].mp3 -> 22_Kili Poyi - Title Song [VSjDOAHPhs0].mp3
+Renaming process complete.
+Thaazhvaram (Kili Poyi): true
+Title: Kili Poyi - Title Song
+Renamed: Kili Poyi - Title Song [VSjDOAHPhs0].mp3 -> 23_Kili Poyi - Title Song [VSjDOAHPhs0].mp3
+Renaming process complete.
+Kili Poyi (Kili Poyi): true
+Olanjali Kuruvi (1983): false
+Title: Nenjodu cherthu - Yuvvh Full Song | Malayalam song | Bad_Mix
+Renamed: Nenjodu cherthu - Yuvvh Full Song _ Malayalam song _ Bad_Mix [JDiQnlnhTdc].mp3 -> 24_Nenjodu cherthu - Yuvvh Full Song _ Malayalam song _ Bad_Mix [JDiQnlnhTdc].mp3
+Renaming process complete.
+Nenjodu Cherthu (Yuvvh): true
+Eeran Kaathil (Salala Mobiles): false
+La La Laletta (Mohanlal): false
+Title: Arikil Pathiye Official Video Song HD | Oru Murai Vanthu Paarthaya | Unni Mukundan
+Renamed: Arikil Pathiye Video Song _ Oru Murai Vanthu Paarthaya _ Unni Mukundan _ Vinu Thomas _Sajan K Mathew [VNg556FUOUs].mp3 -> 25_Arikil Pathiye Video Song _ Oru Murai Vanthu Paarthaya _ Unni Mukundan _ Vinu Thomas _Sajan K Mathew [VNg556FUOUs].mp3
+Renaming process complete.
+Arikil Pathiye (Oru Murai Vanthu Parthaya): false
+Thira Thira (Theerathe Neelunne) (Thira): false
+Title: 4The People - Lajjavathiye song
+Renamed: 4The People - Lajjavathiye song [Tfi3oWgZp1Y].mp3 -> 26_4The People - Lajjavathiye song [Tfi3oWgZp1Y].mp3
+Renaming process complete.
+Lajjavathiye (4 The People): true
+Title: 4The People - Annakkili song
+Renamed: 4The People - Annakkili song [Z_dXvemgSo4].mp3 -> 27_4The People - Annakkili song [Z_dXvemgSo4].mp3
+Renaming process complete.
+Annakili (4 The People): true
+Ninte Mizhimuna (4 The People): false
+Chingamasam (Meesa Madhavan): false
+Title: Ente Ellam Ellam Alle | Video Song | Meesamadhavan | Dileep | Kavya Madhavan
+Renamed: Ente Ellam Ellam Alle Video Song _ Meesamadhavan _ Dileep _ Kavya Madhavan _ Vidyasagar [sZvDWK8bjt8].mp3 -> 28_Ente Ellam Ellam Alle Video Song _ Meesamadhavan _ Dileep _ Kavya Madhavan _ Vidyasagar [sZvDWK8bjt8].mp3
+Renaming process complete.
+Ente Ellam Ellam Alle (Meesa Madhavan): true
+Penne Penne (Meesa Madhavan): false
+Karimizhi Kuruviye (Meesa Madhavan): false
+Kinaavile (CID Moosa): false
+Chilamboli Kaatte (CID Moosa): false
+Omana Puzha (Chanthupottu / Chathikkatha Chanthu): false
+Kakka Karumban (Chathikkatha Chanthu): false
+Thee Jwalayayi (Chronic Bachelor): false
+Namma Ooru (Puthiya Mukham): false
+Rahasyamai (Puthiya Mukham): false
+Poomakal (Udayananu Tharam): false
+Penne En Penne (Udayananu Tharam): false
+Dhumthanakkadi (Chotta Mumbai): false
+Thala (Chotta Mumbai): false
+Vasco Da Gama (Chotta Mumbai): false
+Chellathamare (Hallo): false
+Mazhavillin (Hallo): false
+Gujrati Kaalthala (Pulival Kalyanam): false
+Title: Aaru Paranju Video Song 4K | Pulival Kalyanam | Berny-Ignatius | Shafi | Jayasurya
+Renamed: Aaru Paranju Video Song 4K _ Pulival Kalyanam _ Berny-Ignatius _ Shafi _ Jayasurya [m4Dsbd5cThQ].mp3 -> 29_Aaru Paranju Video Song 4K _ Pulival Kalyanam _ Berny-Ignatius _ Shafi _ Jayasurya [m4Dsbd5cThQ].mp3
+Renaming process complete.
+Aaru Paranju (Pulival Kalyanam): true
+Sona Sona (Ben Johnson): false
+Manikkinaavin (Pokkiri Raja): false
+Ketille (Pokkiri Raja): false
+Enthinu Veroru (Nammal): false
+Rakshasi (Nammal): false
+Kathirunna (Classmates): false
+Mizhiariyathe (Niram): false
+Shukriya (Niram): false
+Swapnangale (Minnithennum) (Niram): false
+Aathmaavil (Thinkale Poothinkale) (Kalyanaraman): false
+Kadhayile (Kalyanaraman): false
+Pinakkamano (Anandabhadram): false
+Thira Nurayum (Anandabhadram): false
+Kiliye Kiliye (Mayavi / Aa Raathri): false
+Muttathethum (Muttathe Mulle Chollu) (Mayavi): false
+Oru Madhurakinavin (Teja Bhai): false
+Sundari Onnu (Lion): false
+Kaithapoo (Kudamullakkadavil / Karineela Kannilenthedi) (Lion / Chakkaramuthu)*: false
+Kanne Karle (Suryane Kaithodan) (My Boss): false
+Happy Husbands (Take It Easy) (Happy Husbands): false
+Aaramam (Seniors): false
+Kannil Kannil (Kunjikoonan / CIA / Sita Ramam)*: false
+Thaarapatham (Vaanam Chaayum / Sahibaa) (Anarkali): false
+Aa Oruthi (Anarkali): false
+Title: Azhalinte Azhangalil | അഴലിന്റെ ആഴങ്ങളില്‍ | Nikhil | Ouseppachan | Ayalum Njanum Thammil Song | HD
+Renamed: Azhalinte Azhangalil _ അഴലിന്റെ ആഴങ്ങളില്_ _ Nikhil _ Ouseppachan _ Ayalum Njanum Thammil Song _ HD [5php2WWuvxw].mp3 -> 30_Azhalinte Azhangalil _ അഴലിന്റെ ആഴങ്ങളില്_ _ Nikhil _ Ouseppachan _ Ayalum Njanum Thammil Song _ HD [5php2WWuvxw].mp3
+Renaming process complete.
+Sahayathrike (Azhalinte Azhangalil) (Ayalum Njanum Thammil): true
+Nokki Nokki (Jomonte Suvisheshangal): false
+Mazhaye Mazhaye (Pattam Pole): false
+DONE for List: MAL Top 145
+Created destination folder: MAL Top 145_1
+Copied: 01_Aavesham - Galatta Song #galatta #aavesham #fahadhfaasil #sushinshyam [oVgrZkkiBUY].mp3
+Copied: 02_Nebulakal - Travel Song (From _Manjummel Boys_) [MQs-6Oeobnw].mp3
+Copied: 03_Scene Contra _ Premam [WYtnfsDJ6IA].mp3
+Copied: 04_Kalippu _ Premam [PeUjir1kMFM].mp3
+Copied: 05_Neeraj Madhav - PANIPAALI [Z3Nli5iIsSA].mp3
+Copied: 06_King of Kotha - Kalapakkaara Video _ FOI Studios 2024 [7ORLdT89kPM].mp3
+Copied: 07_Oru Adaar Love _ Roshan + Priya _ Freak Penne [vd6BIe2U2pw].mp3
+Copied: 08_Oru Adaar Love _ Manikya Malaraya Poovi Song Video_ Omar Lulu, Vineeth Sreenivasan, Shaan Rahman _HD [W0fKl43QmIE].mp3
+Copied: 09_Aluva Puzha [dHpvF5Vn7Dg].mp3
+Copied: 10_Ee Shishirakaalam _ Jacobinte Swargarajyam _ Nivin Pauly, Vineeth Sreenivasan, Shaan Rahman _ [JEeEApK-XqE].mp3
+Copied: 11_Bangalore Days __ VS __ Mangalyam Song [TPEcvdwck_o].mp3
+Copied: 12_Nam Ooru Bengaluru _ Bangalore Days_ Video Song _ NivinPauly _ Dulquar Salman _ Nazriya _ FahadFazil [9GUtsBv9KYE].mp3
+Copied: 13_Bangalore Days Wedding Song - Mangalyam - Choreography [nx97QM5Kdrw].mp3
+Copied: 14_Kattu Mooliyo Official Full Song - Ohm Shanthi Oshaana [O5IlYZCQRuU].mp3
+Copied: 15_Anuraghathin Velayil _ Video Song _ Thattathin Marayathu _ Nivin Pauly _ Isha Talwar [X48wPny1hTw].mp3
+Copied: 16_Neeyilla Neram _ Luca _ Lyrical Video _ Tovino Thomas [pBIhUCsnhL4].mp3
+Copied: 17_LAILAKAME - EZRA _ Lyrics Video _ Pilimbee [cDpQrb2QG6Q].mp3
+Copied: 18_Neelambalin _ Oru Vadakkan Selfie _ STATUS VIDEO 😍 [VgOltT-MwLQ].mp3
+Copied: 19_ETHO MAZHAYIL _ VIJAY SUPERUM POURNAMIYUM _ VIJAY YESUDAS _ SWETHA MOHAN [WEEessbCUnc].mp3
+Copied: 20_Vijay Superum Pournamiyum Video Song _ Pournami Superalleda _ Asif Ali _ Vineeth Sreenivasan _ Balu [Yt2p2YYhJvc].mp3
+Copied: 21_Thinkal Poovin – Anne Amie _ Pachuvum Athbutha Vilakkum _ Justin Prabhakaran _ Akhil Sathyan [LNzumtGcEKI].mp3
+Copied: 22_Kili Poyi - Title Song [VSjDOAHPhs0].mp3
+Copied: 23_Kili Poyi - Title Song [VSjDOAHPhs0].mp3
+Copied: 24_Nenjodu cherthu - Yuvvh Full Song _ Malayalam song _ Bad_Mix [JDiQnlnhTdc].mp3
+Copied: 25_Arikil Pathiye Video Song _ Oru Murai Vanthu Paarthaya _ Unni Mukundan _ Vinu Thomas _Sajan K Mathew [VNg556FUOUs].mp3
+Copied: 26_4The People - Lajjavathiye song [Tfi3oWgZp1Y].mp3
+Copied: 27_4The People - Annakkili song [Z_dXvemgSo4].mp3
+Copied: 28_Ente Ellam Ellam Alle Video Song _ Meesamadhavan _ Dileep _ Kavya Madhavan _ Vidyasagar [sZvDWK8bjt8].mp3
+Copied: 29_Aaru Paranju Video Song 4K _ Pulival Kalyanam _ Berny-Ignatius _ Shafi _ Jayasurya [m4Dsbd5cThQ].mp3
+Copied: 30_Azhalinte Azhangalil _ അഴലിന്റെ ആഴങ്ങളില്_ _ Nikhil _ Ouseppachan _ Ayalum Njanum Thammil Song _ HD [5php2WWuvxw].mp3
+All files copied successfully!
+ALL DONE
